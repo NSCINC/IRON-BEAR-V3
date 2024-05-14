@@ -1,10 +1,9 @@
-Para adicionar emojis com tema de Star Wars ao seu README.md, você pode utilizar os códigos Unicode dos emojis correspondentes. Aqui estão alguns exemplos:
 
 - ⚔️ 
 
 Você pode incorporá-los ao seu texto da seguinte forma:
 
-```markdown
+
 # IRON BEAR V3 
 **README.md**
 
@@ -57,7 +56,6 @@ Motor GO represents the next evolution in automotive industry solutions, offerin
 To get started with Motor DApp X, follow these steps:
 
 1. **Installation**: Clone the repository to your local machine and install the necessary dependencies.
-
 ```
 git clone (https://github.com/NSCINC/IRON-BEAR-V3)
 cd IRON-BEAR-V3
@@ -106,8 +104,9 @@ This project is licensed under the [Apache License](LICENSE).
 
 <P></P>
 
-<img src="A.jpeg">
+
 
 Para adicionar emojis com tema de Star Wars, você pode substituir o texto "img src="A.jpeg"" por emojis relacionados a Star Wars, como:
 
+<img src="A.jpeg">
 
