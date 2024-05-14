@@ -31,8 +31,7 @@
 
 <ol>
   <li><strong>Installation</strong>: Clone the repository to your local machine and install the necessary dependencies.</li>
-  <code>
-  git clone (https://github.com/7doos/Dappx-GT3)<br>
+  <code>IRON BEAR V3)<br>
   cd Dappx-GT3<br>
   npm install
   </code>
