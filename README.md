@@ -92,7 +92,7 @@ Motor DApp X is developed and maintained by a passionate team dedicated to trans
 
 ## License
 
-This project is licensed under the [Apache License](LICENSE).
+This project is licensed under the [Apache License](LICENSE).🚀
 
 
 ---
