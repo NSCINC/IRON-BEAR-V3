@@ -53,7 +53,7 @@ To get started with Motor DApp X, follow these steps:
 
 ```
 git clone (https://github.com/NSCINC/IRON-BEAR-V3)
-cd IRON BEAR V3
+cd IRON-BEAR-V3
 npm install
 ```
 
