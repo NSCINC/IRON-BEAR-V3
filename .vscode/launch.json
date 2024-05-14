@@ -11,12 +11,6 @@
             "remoteRoot": "/usr/src/app"
         },
         {
-            "type": "node",
-            "request": "attach",
-            "name": "Docker: Attach to Node",
-            "remoteRoot": "/usr/src/app"
-        },
-        {
             "name": "Docker .NET Attach (Preview)",
             "type": "docker",
             "request": "attach",
