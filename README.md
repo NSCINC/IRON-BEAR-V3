@@ -9,7 +9,7 @@ Welcome to Motor DApp X, an innovative decentralized application revolutionizing
 
 ## Features
 
-# Motor GO
+# iron bear v3
 
 ## Summary
 
