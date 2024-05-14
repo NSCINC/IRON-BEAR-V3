@@ -52,8 +52,8 @@ To get started with Motor DApp X, follow these steps:
 1. **Installation**: Clone the repository to your local machine and install the necessary dependencies.
 
 ```
-git clone (https://github.com/NSCINC/Dappx-GT2)
-cd Dappx-GT2
+git clone (https://github.com/NSCINC/IRON-BEAR-V3)
+cd IRON BEAR V3
 npm install
 ```
 
