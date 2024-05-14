@@ -1,10 +1,9 @@
 
-- ⚔️ 
 
 Você pode incorporá-los ao seu texto da seguinte forma:
 
 
-# IRON BEAR V3 
+# IRON BEAR V3  ⚔️ 
 **README.md**
 
 # Engine DApp X
